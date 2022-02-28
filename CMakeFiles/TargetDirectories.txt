@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/tugas2/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/tugas2/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/tugas2/CMakeFiles/app.dir
